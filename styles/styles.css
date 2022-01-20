@@ -89,6 +89,7 @@
     display: flex;
     align-items: center;
     height: 60px;
+    border-bottom: 1px solid #C4C4C4;
 }
 
 .post__logo {
@@ -127,6 +128,7 @@
 
 .post__image {
     width: 100%;
+    border-bottom: 1px solid #C4C4C4;
 }
 
 .post__text p:last-of-type {
